@@ -1,0 +1,4 @@
+export const SEND_SMS_CODE = 'SEND_SMS_CODE';
+export const GET_CAPTCHA_JS_URL = 'GET_CAPTCHA_JS_URL';
+export const CHECK_SMS_CODE = 'CHECK_SMS_CODE';
+

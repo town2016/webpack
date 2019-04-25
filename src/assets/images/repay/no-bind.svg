@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="165px" height="39px" viewBox="0 0 165 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>标签/银行卡状态/未绑定存管账户</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="银行卡选择" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-336.000000, -635.000000)">
+        <g id="Group-3" transform="translate(-20.000000, 460.000000)">
+            <g id="Group-2" transform="translate(0.000000, 29.000000)">
+                <g id="Group" transform="translate(50.000000, 102.000000)">
+                    <g id="标签/银行卡状态/未绑定存管账户" transform="translate(306.000000, 44.000000)">
+                        <g id="组-370">
+                            <path d="M165.000012,26.9722551 L165.000012,38.999984 L-1.19999968e-05,38.999984 L-1.19999968e-05,26.9721191 L6.478719,19.503999 L-1.19999968e-05,12.0357658 L-1.19999968e-05,-2.7e-05 L165.000012,-2.7e-05 L165.000012,12.0356298 L158.521092,19.503999 L165.000012,26.9722551 Z" id="Combined-shape-512" fill="#FFFFFF"></path>
+                            <g id="组-372" transform="translate(14.000000, 8.000000)">
+                                <g id="Group-2">
+                                    <g id="Group">
+                                        <path d="M11.499928,-1.99999999e-06 C17.851182,-1.99999999e-06 22.999936,5.1487 22.999936,11.499954 C22.999936,17.85126 17.851182,22.999988 11.499928,22.999988 C5.148674,22.999988 -7.9999998e-05,17.85126 -7.9999998e-05,11.499954 C-7.9999998e-05,5.1487 5.148674,-1.99999999e-06 11.499928,-1.99999999e-06 Z" id="矩形-1" fill="#FF0300"></path>
+                                        <polygon id="矩形-1-拷贝" fill="#FFFFFF" points="9.99998 7.999965 12.999974 7.999965 12.999974 19.999995 9.99998 19.999995"></polygon>
+                                        <path d="M11.499938,2.99998 C12.328364,2.99998 12.999974,3.671554 12.999974,4.499992 C12.999974,5.328394 12.328364,5.999968 11.499938,5.999968 C10.671512,5.999968 9.99998,5.328394 9.99998,4.499992 C9.99998,3.671554 10.671512,2.99998 11.499938,2.99998 Z" id="矩形-2" fill="#FFFFFF"></path>
+                                    </g>
+                                    <text id="未绑定存管" font-family="PingFangSC-Regular, PingFang SC" font-size="22" font-weight="normal" line-spacing="20" fill="#FF0300">
+                                        <tspan x="28" y="25">未绑定存管</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="组-371" transform="translate(25.000000, 11.000000)"></g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

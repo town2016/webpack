@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>btn/弹窗/关闭</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="0" y="0" width="44" height="44" id="rect-1"></rect>
+    </defs>
+    <g id="首页-开通存管账户" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-601.000000, -299.000000)">
+        <g id="弹窗" transform="translate(88.000000, 278.000000)">
+            <g id="btn/弹窗/关闭" transform="translate(513.000000, 21.000000)">
+                <g id="-e-组-82">
+                    <image x="0" y="0" width="44" height="44" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAAAXNSR0IArs4c6QAAA+NJREFUWAnNmc1rE0EYxhsTU2j1YkwjJW2ggl8oKIgnsYonq54UPEn7V/j32KvgSaWnWhFPIiha/ELNR2urWeLJBPNlfJ41syazXzObScwLT3d35p33/XUyO7M7G9vd3Z0YwJJoOw/loDSUgvZBLKc1oJ9QBbKgIlSCWB7JYhGAY8h0GDoDHYH2QjrWhPNH6CX0GepAyqYLfByRF6FDyhmCHb+h+gn0PtjtX60q8AE0uQqxZ4dh7OlH0I+w4CrAJxHkOjQZFmzA+jraP4A2g+IkAio5Vi9BFwJ8TFaxQ25CM9AG5Dm296DCywh7BRoVbC8Dc3L4kcFlfsCX4XnO5T26grNIRQaXeQFzzJ53eY6+gAyn5LQyMGcD3mDjYtcAQibHZGCOnWHPBk5yhROykMmxXmAuCsOaZ52EEU7IRDbbBDDvSK5goVatVg/m8/mVer2+P9TZx6HRaEwVCoXbtVqNzx4qdhFO9qwhgPlfKC23lmUtNZvN3Pb29nIUaMKi7QqOC+VyeUmFFj4ZyP71BfBpxYYTs7Oz9+PxuNVut1O60AK21WqlE4lEmbFU88LPZiQwHwWPqTZMJpPVubm5VV1oGTabza4iVk01b5cxSWA+zwYt0a6YutAGYMlAxnkC53ila6rQhmAFXo7AfNiIZGHQgJ3mDSbGbIRhIHPNEFh1apEb29d+0F3YZYOwzJfi8/AdnEzZ2Qf4Q8Ctra1lzB5p3JCVWCz22zAs6WrsYSNLsdzTQ4Al8CSBjRp61onX6XTilFNg4ITAfDUZ2KQxa+nO04oAdQLrTN6ecWVYzAZ3oywunsH7C+0xXOkv07vygsV4rsljWncZ96GosIfLPpWhxX6wouEQoMsELooEOscwWBHLMHSRwCWoJRKoHFVhRSxD0GQsEZgbc8pbRbqwBqE/kJXAtFd/D+F/d3Z2bnQXBYuzAXpPeZaRe5qxwjM6HjajAObe1nenKuAknU6vIXFeF1aEFNCMkclkHorykCPZPtGnd2+NL3q3WDiGdg9Mb8klepjn7yD29LjZFwDZsATrBeY1tzyNLNUMZsDI0jdsZGDuz3LLc1yMsH17xjIwQTehZzz5z0aGNzKDFzB91qHnsvMIr190GVwp/d6WuZm8Bv2CRr1H/BQ5NyAyuMwPmI5s8BiyIO4iGnkzQRw/4w3Gm/61nwPLg4BFO46jrxChF0Sh4SOnLtcN5pWjd+HwqpfLTqBgEeJelwnjZy8OAWeeDQuqC8x4fGnjxhw/LB6FVH4luDnGpy4+yET6sKibjFk5trmuU9yXm4dy0AyUgqYhltP4JFiF+FbDe6EAlaDIn27/AIdJGYVT12gEAAAAAElFTkSuQmCC"></image>
+                    <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,4 @@
+export const HOME_INFO = 'HOME_INFO';
+export const LIMIT_INFO = 'LIMIT_INFO';
+export const LATEST_CREDIT_DEDUCT_RESULT = 'LATEST_CREDIT_DEDUCT_RESULT';
+

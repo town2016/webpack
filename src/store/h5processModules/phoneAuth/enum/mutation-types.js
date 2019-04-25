@@ -1,0 +1,2 @@
+export const SET_LOGIN_PHONE = 'SET_LOGIN_PHONE';
+export const SET_PHONE_AUTH_INFO = 'SET_PHONE_AUTH_INFO';

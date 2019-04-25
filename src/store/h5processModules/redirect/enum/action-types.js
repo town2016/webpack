@@ -1,0 +1,1 @@
+export const GET_PROCESS_INFO = 'GET_PROCESS_INFO';

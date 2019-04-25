@@ -1,0 +1,1 @@
+export const COMMIT_SUPPORT_BANKS = 'commitSupportBanks';

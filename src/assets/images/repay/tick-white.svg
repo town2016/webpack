@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/功能/勾选</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="0" y="0" width="44" height="44" id="rect-1"></rect>
+    </defs>
+    <g id="一键还款" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-30.000000, -604.000000)">
+        <g id="组-69" transform="translate(-2.000000, 0.000000)">
+            <g id="组-73" transform="translate(0.000000, 246.000000)">
+                <g id="Group-3-Copy" transform="translate(0.000000, 335.000000)">
+                    <g id="Group" transform="translate(32.000000, 23.000000)">
+                        <g id="icon标识/状态/勾选">
+                            <g id="组-73">
+                                <g id="图层-1" opacity="0.01">
+                                    <image x="0" y="0" width="44" height="44" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAAAXNSR0IArs4c6QAAAH9JREFUWAnt0jEOgDAQxMCQ//85IErXTnGS07lZnQae87016O1Bt/6ndvDtL5ZwwhDolwCIngnrpBhMGCB6JqyTYjBhgOiZsE6KwYQBomfCOikGEwaIngnrpBhMGCB6JqyTYjBhgOiZsE6KwYQBomfCOikGEwaIngnrpBgcJ/wCjLgEVOYTFXUAAAAASUVORK5CYII="></image>
+                                    <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                                </g>
+                                <g id="组-72" transform="translate(3.000000, 3.000000)">
+                                    <path d="M19.000015,-1.33226763e-15 C29.493432,-1.33226763e-15 37.999989,8.506557 37.999989,18.999974 C37.999989,29.493432 29.493432,37.999989 19.000015,37.999989 C8.506598,37.999989 -1.33226763e-15,29.493432 -1.33226763e-15,18.999974 C-1.33226763e-15,8.506557 8.506598,-1.33226763e-15 19.000015,-1.33226763e-15 Z" id="矩形-18" fill="#FFFFFF"></path>
+                                    <polyline id="Path-2" stroke="#368EFF" stroke-width="3" points="8 19.6341973 15.6829013 27.3170987 31 12"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,1 @@
+export const OPEN_TOAST_STATE = 'OPEN_TOAST_STATE';

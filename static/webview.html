@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=true">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    * {
+      padding: 0;
+      margin: 0;
+    }
+    #img {
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <img id="img" src="" />
+
+  <script>
+    function query() {
+      let search = decodeURIComponent(window.location.href).split('?');
+      search.splice(0, 1);
+      search = search.join('');
+      if(search) {
+        let query = search.split('&');
+        let tempObj = {};
+        query.map((v) => {
+          let val = v.split('=');
+          tempObj[val[0]] = val[1];
+        })
+        return tempObj;
+      }
+      return {};
+    }
+    var img = document.getElementById('img');
+    var url = window.location.search.replace('?src=', '');
+    console.log(url)
+    img.setAttribute('src', url);
+    
+    img.onclick = function(e) {
+      if(!img.getAttribute('style')) {
+        // 确保顺序执行，解决放大抖动
+        img.style.width = '200%';
+        window.scrollTo(e.offsetX*2 - e.clientX, e.offsetY*2 -e.clientY)
+      } else {
+        window.scrollTo(e.offsetX/2 - e.clientX, e.offsetY/2 -e.clientY)
+        img.removeAttribute('style');
+      }
+    }
+  </script>
+</body>
+</html>

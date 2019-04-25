@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/还款/车抵贷</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="账单" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-30.000000, -571.000000)">
+        <g id="Group-5" transform="translate(0.000000, 546.000000)">
+            <g id="Group-2">
+                <g id="Group">
+                    <g id="icon标识/还款/信用贷" transform="translate(30.000000, 25.000000)">
+                        <g id="icon/还款/信用贷">
+                            <rect id="矩形_18_拷贝_4" fill="#FFC107" fill-rule="nonzero" x="0" y="0" width="36" height="36" rx="10"></rect>
+                            <g id="组_358" transform="translate(6.000000, 11.000000)" fill-rule="nonzero">
+                                <rect id="圆角矩形_1215" fill="#FFFFFF" x="1" y="0" width="22" height="15" rx="2"></rect>
+                                <rect id="矩形_1217" fill="#FFC107" x="3" y="10" width="3" height="3"></rect>
+                                <rect id="圆角矩形_1215_拷贝" fill="#FFC107" x="0" y="4" width="24" height="2"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,2 @@
+export const ERROR_MESSAGE = "ERROR_MESSAGE"
+export const ERROR_ADDINFO = "ERROR_ADDINFO"

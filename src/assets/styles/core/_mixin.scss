@@ -1,0 +1,17 @@
+@charset 'UTF-8';
+
+@mixin hide-y-scrolbar() {
+  overflow-x: hidden;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch; // &::after {
+  // min-height: calc(100% + 1px);
+  // }
+  // &>inner {
+  //     min-height: calc(100% + 1px)
+  // }
+  &::-webkit-scrollbar {
+    height: 0;
+    width: 0;
+    overflow: hidden;
+  }
+}

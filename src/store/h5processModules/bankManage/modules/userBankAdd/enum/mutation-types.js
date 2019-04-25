@@ -1,0 +1,1 @@
+export const COMMIT_BANK_INFO = 'commitBankInfo';

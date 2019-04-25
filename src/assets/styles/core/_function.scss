@@ -1,0 +1,14 @@
+@charset 'UTF-8';
+
+@function pxToRem($px) {
+    @if $px == 0 {
+        @return 0;
+    }
+    @if $px <=2 and $px > 0 {
+        @return 1px;
+    }
+    @else {
+        @return $px / ($px * 0 + 1) / 100 * 1rem;
+    }
+}
+//floor(10.2)->10;floor(10.2px)->10

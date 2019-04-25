@@ -1,0 +1,13 @@
+@charset 'UTF-8';
+@import "./core/variable";
+
+// gold theme
+.theme__gold--style{
+  .bg-color {
+    background-color: $goldThemeColor !important;
+  }
+  
+  .bg-gradient {
+    background-color: $goldgradientColor !important;
+  }
+}

@@ -1,0 +1,2 @@
+export const ADD_ONCE_LOADING = "ADD_ONCE_LOADING"
+export const DEL_ONCE_LOADING = "DEL_ONCE_LOADING"
